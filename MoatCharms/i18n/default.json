@@ -1,0 +1,58 @@
+{
+  "amulet.somdej.name": "Phra Somdej",
+  "amulet.somdej.desc": "A cream-white votive tablet, pressed from temple powder. The venerable's calm settles over whoever carries it with respect.",
+  "amulet.somdej.blessing": "calm under blows (+2 defense)",
+
+  "amulet.takrut.name": "Takrut",
+  "amulet.takrut.desc": "A little scroll of yantra script rolled in metal, worn on a cord. What is written inside is not for reading — it is for keeping you out of harm's path.",
+  "amulet.takrut.blessing": "harm passes by (+2 immunity)",
+
+  "amulet.sing.name": "Sing Amulet",
+  "amulet.sing.desc": "A carved lion, jaw set, sitting proud. Carry it and your heart remembers it has teeth too.",
+  "amulet.sing.blessing": "a lion's heart (+2 attack)",
+
+  "amulet.paladkhik.name": "Palad Khik",
+  "amulet.paladkhik.desc": "A small carved charm of a shape best kept in the pocket, na. Good things find their way to the one who carries it. Do not show granny.",
+  "amulet.paladkhik.blessing": "good things come closer (wider magnetism)",
+
+  "amulet.nangkwak.name": "Nang Kwak",
+  "amulet.nangkwak.desc": "The beckoning lady, hand raised, calling customers and coin the way one calls a cat. Shopkeepers swear by her. She takes no salary — only respect.",
+  "amulet.nangkwak.blessing": "wealth beckoned in (+1 farming)",
+
+  "amulet.jingjok.name": "Jing-jok Charm",
+  "amulet.jingjok.desc": "A little house gecko in pale jade. Geckos speak before things happen — this one whispers about tomorrow, if you listen.",
+  "amulet.jingjok.blessing": "hears tomorrow's omens",
+
+  "omen.coucal": "A coucal called from the west at first light. The old people smile at that.",
+  "omen.housegecko": "A house gecko chirped an odd number of times over the door. Lucky number, they say.",
+  "omen.almsround": "You woke in time to see the monks pass on alms round. A good start follows a good start.",
+  "omen.lottery": "You dreamt of numbers, clear as day. Somebody should hold something lucky today.",
+  "omen.firstsale": "The first customer of the morning paid without haggling. Merchants call that a blessed till.",
+  "omen.teeth": "You dreamt your teeth came loose. The old people say to walk carefully after that dream.",
+  "omen.owl": "An owl cried on the roof last night. Best keep protection close today.",
+  "omen.ricepot": "The rice pot boiled over this morning. A day for a careful hand and a beckoning charm.",
+  "omen.dogs": "The soi dogs howled at nothing before dawn. Whatever they saw, better to face the day with courage.",
+  "omen.resting": "The old aunties advise: today is a resting day for charms. Let them sleep in the pocket — showing them off today helps nobody.",
+
+  "omen.buffsource": "the day's reading",
+  "omen.tilt.up": "The day leans with you",
+  "omen.tilt.down": "The day asks care",
+  "omen.buffdesc": "Dawn omens, read the Chiang Mai way. The right amulet can answer them.",
+
+  "wear.none": "You tuck every charm safely into your pocket.",
+  "wear.some": "You put on the {{name}}. It settles warm against your chest.",
+  "nangkwak.tip": "A stranger pressed {{amount}}g into your hand. Nang Kwak beckons, customers come.",
+
+  "menu.title": "Charms of Chiang Mai — today's reading",
+  "menu.tomorrow": "The gecko whispers of tomorrow: {{omen}}",
+  "menu.footer": "Press 1-6 to wear a charm · 0 to tuck them all away · Esc to close",
+  "menu.empty": "No amulets yet. Lung Saeng sets up at the bus stop on market days — looking is free, na.",
+  "menu.worn": "● wearing",
+
+  "seller.name": "Lung Saeng",
+  "seller.arrived": "Lung Saeng the amulet seller has set out his tray at the bus stop.",
+  "seller.greet.1": "Oh, farmer! Come, come. Looking is free. Protection — small price, na.$h",
+  "seller.greet.2": "Good day for you, good day for me. My charms all wake up blessed already — you only bring the money part.$h",
+  "seller.greet.3": "You look tired, na. Work hard is good, but luck works harder. I give farmer price, cannot go lower — my cousin blesses these himself.",
+  "seller.greet.4": "Same same as last time, but different. New moon, new blessings. You need, I have. You no need — you still maybe have, safer that way, na?$h"
+}

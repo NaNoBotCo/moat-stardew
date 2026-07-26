@@ -1,0 +1,10 @@
+{
+  "Name": "Moat: Charms of Chiang Mai",
+  "Author": "NaNoBotCo",
+  "Version": "0.1.0",
+  "Description": "Lanna amulets, contested omens, and a wandering amulet seller. Wear the right charm on the right day.",
+  "UniqueID": "NaNoBotCo.MoatCharms",
+  "EntryDll": "MoatCharms.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
