@@ -44,3 +44,13 @@ play / rebuild / log / project / sprites).
 - Lung Saeng is spawned at day start on seller days and removed at `DayEnding`, so he is never written into the save file.
 - Amulets are ordinary inventory objects; "wearing" is `player.modData` + endless buffs, reapplied at each day start. Selling or losing the charm un-wears it automatically.
 - All player-facing text lives in `MoatCharms/i18n/default.json`, in Moat's register: sweet, sincere, polite, transactional. Thai-side text can be added later as `i18n/th.json`.
+
+
+## Licence
+
+Records, prose and pages: CC BY-SA 4.0. Code: AGPL-3.0-or-later. Anything
+carried in from elsewhere keeps its own terms — see [LICENSE](LICENSE).
+
+**Commercial licence.** If share-alike doesn't fit your use — a corpus, a
+product, a model — a commercial licence is available.
+[Open an issue](https://github.com/NaNoBotCo/moat-stardew/issues) and say what you need.
