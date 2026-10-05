@@ -1,0 +1,3 @@
+MoatCharms/i18n/default.json	Do not show granny.	game flavour text, a joke in the item's voice
+MoatCharms/obj/MoatCharms.csproj.nuget.dgspec.json	"warn": true	build output (git-ignored), a compiler setting
+MoatCharms/obj/project.assets.json	"warn": true	build output (git-ignored), a compiler setting
